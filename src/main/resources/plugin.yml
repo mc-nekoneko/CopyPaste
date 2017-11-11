@@ -1,0 +1,6 @@
+name: CopyPaste
+version: ${project.version}
+main: net.nekonekoserver.cbf.CopyPaste
+permissions:
+  copypaste.use:
+    default: op
